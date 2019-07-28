@@ -1,0 +1,8 @@
+django==2.1.7
+djangorestframework==3.9.2
+gunicorn==19.9.0
+pytz==2019.1
+sqlparse==0.3.0
+django_jalali
+django_enumfield
+pillow

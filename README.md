@@ -1,1 +1,2 @@
-# uni-django-app
+# uni-api
+University App API
